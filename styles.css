@@ -1,10 +1,6 @@
-/*  your css code here. If applicable */
-table {
-    width: 100%;
-    border-collapse: collapse; /* Ensures borders are merged */
-}
 
-.th.td {
+
+th,td {
     border: 1px solid #black;
     border-radius: 5px;
     padding: 0.5rem;
