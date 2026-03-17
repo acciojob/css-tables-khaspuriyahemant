@@ -15,7 +15,7 @@ tbody tr:nth-child(even) {
     background-color: #ffffff; /* Even rows */
 }
 
-.th td {
+th ,td {
   border: 1px solid black;
   border-radius: 10px;
 }
